@@ -1,0 +1,6 @@
+{
+  "name": "Setlist Studio",
+  "description": "Buscador de canciones de bandas y artistas, organizador de setlists para conciertos con fecha y lugar, reordenamiento interactivo y exportación de hojas de escenario en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
